@@ -1,0 +1,42 @@
+Copyright (c) 2026 James. All rights reserved.
+
+This license covers the Wolfpack Mod Manager and the Wolfpack mods published
+in this repository and its releases (the "Software"), which are distributed
+in compiled form only.
+
+You may:
+  - download, install and use the Software free of charge for personal,
+    non-commercial purposes;
+  - share unmodified copies of the official release files with other
+    players, as long as this license is included and nothing is charged
+    for them.
+
+You may not, without written permission from the copyright holder:
+  - modify, decompile, disassemble or reverse engineer the Software, except
+    where the law gives you that right regardless of this license;
+  - redistribute modified versions, or include the Software in another
+    product, mod pack or installer;
+  - sell, rent or otherwise charge for the Software;
+  - remove or change copyright notices, or present the Software as your
+    own work.
+
+No source code is provided, and no rights to the source code are granted.
+All rights not expressly granted above are reserved.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+USE IT AT YOUR OWN RISK.
+
+Third-party software and names
+
+The Software does not include BepInEx. The Mod Manager can download BepInEx
+from its official site at the user's request. BepInEx is a separate project
+licensed under the GNU Lesser General Public License 2.1:
+https://github.com/BepInEx/BepInEx
+
+Wolfpack is the property of its developers and publisher. This is an
+unofficial fan project and is not affiliated with or endorsed by them.
